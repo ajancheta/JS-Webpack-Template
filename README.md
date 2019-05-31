@@ -16,7 +16,7 @@ This is a great application.
 * Download and install Node.js 12.3.1
 
 ## Setup Instructions for accessing the Application
-* Clone this repository "https://github.com/ajancheta/HairSalon.Solution.git"
+* Clone this repository "https://github.com/ajancheta/Project-Name.git"
 * Open the repository in a preferred text editor such as Atom or Visual Studio Code.
 
 To run the application, open your machine's terminal and type in the following commands within the main project directory
