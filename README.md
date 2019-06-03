@@ -24,10 +24,10 @@ To run the application, open your machine's terminal and type in the following c
 `npm install` This will allow the viewer of this project to have access to the CLI (command line interface) for webpack.
 
 `npm run build`
-This will automatically build the bundle once. The entry file is `./src/script/index.js`, with production ready code (minified).
+This will automatically build the bundle once. The entry file is `./src/main.js`, with production ready code (minified).
 
 `npm run start`
-This will watch the file changes in `./src` and automatically build the bundle with dev build (not minified). This is a continuous monitoring so to stop it, type the key combination `Ctrl + C` within the terminal.
+This will watch the file changes in `./src` and automatically build the bundle with dev build (not minified). This is a continuous monitoring so to stop it just type the key combination `Ctrl + C` within the terminal.
 
 ## Known Bugs
 There are no known bugs.
